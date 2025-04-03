@@ -1,0 +1,2 @@
+# Whitehaven-Coal-Financial-Valuation-Industry-Analysis-DCF-Ratio-Benchmarking-and-Strategic-Insights
+This repository features a comprehensive financial analysis of Whitehaven Coal, including DCF modeling, ratio benchmarking against peers (BHP, Glencore), and strategic assessments using Porter's Five Forces and PESTEL frameworks. It combines Excel-based valuation with market insights for investment decision-making.
